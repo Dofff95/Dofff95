@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm Ivan👋 
+### I'm a FrontEnd Developer 
 My stack <br>
 <img src="https://img.shields.io/badge/html5-navy?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-navy?style=for-the-badge&logo=css3&logoColor=white"/>
